@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1427px" height="542px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="134.43666560711893" cy="121.64426877470164" r="286.9076800298709" gradientTransform="matrix(-0.0349950447502821 -0.9993874858346615 0.558597481727176 -0.019560124723906593 71.19110053202667 258.3779670889769 )" gradientUnits="userSpaceOnUse" id="RadialGradient509">
+      <stop id="Stop510" stop-color="#ffffff" stop-opacity="0.996078431372549" offset="0" />
+      <stop id="Stop511" stop-color="#ededed" stop-opacity="0.996078431372549" offset="1" />
+    </radialGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip512">
+      <path d="M 0 280  L 0 20  C 0 8.799999999999999  8.799999999999999 0  20 0  L 313 0  C 324.2 0  333 8.799999999999999  333 20  L 333 280  C 333 291.2  324.2 300  313 300  L 20 300  C 8.799999999999999 300  0 291.2  0 280  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -21 -1566 )">
+    <path d="M 0 280  L 0 20  C 0 8.799999999999999  8.799999999999999 0  20 0  L 313 0  C 324.2 0  333 8.799999999999999  333 20  L 333 280  C 333 291.2  324.2 300  313 300  L 20 300  C 8.799999999999999 300  0 291.2  0 280  Z " fill-rule="nonzero" fill="url(#RadialGradient509)" stroke="none" transform="matrix(1 0 0 1 21 1566 )" class="fill" />
+    <path d="M 0 280  L 0 20  C 0 8.799999999999999  8.799999999999999 0  20 0  L 313 0  C 324.2 0  333 8.799999999999999  333 20  L 333 280  C 333 291.2  324.2 300  313 300  L 20 300  C 8.799999999999999 300  0 291.2  0 280  Z " stroke-width="4" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 21 1566 )" class="stroke" mask="url(#Clip512)" />
+  </g>
+  <style>svg { filter: drop-shadow(5px 5px 2.5px rgba(0, 0, 0, 0.34901960784313724)); }</style>
+</svg>
